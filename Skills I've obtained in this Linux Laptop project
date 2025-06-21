@@ -1,0 +1,45 @@
+
+
+🔧 What I Did
+
+Installed Linux (likely Xubuntu or similar lightweight distro) on a 2012 HP laptop.
+
+Created bootable USB using Termux on Android (no other computer available).
+
+Partitioned drive manually:
+
+/dev/sda1 as EFI
+
+/dev/sda2 as root /
+
+/dev/sda3 as swap
+
+
+Fixed WiFi issues by compiling Realtek RTL8723DE driver manually in Termux and transferring it.
+
+Used XFCE terminal and CLI tools to configure the system without a GUI-based installer.
+
+Set up connectivity via mobile hotspot after no network manager was showing.
+
+Partitioning and formatting
+
+Networking troubleshooting
+
+Driver installation (manual kernel module build)
+
+Patience, hustle, and a whole lotta of brainpower
+
+
+ Future Plans
+
+Add Brave browser or Chromium
+
+Turn system into a coding/dev machine
+
+Document a full step-by-step process for others
+
+
+
+
+
+
