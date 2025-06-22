@@ -21,6 +21,7 @@ But most of all? Because I could.
 - 🔌 USB OTG adapter  
 - 🐧 Linux Mint XFCE ISO  
 - 💣 Courage to wipe out Windows XP like a boss
+- Guidance from chat gpt
 
 ## 🚀 Steps
 
